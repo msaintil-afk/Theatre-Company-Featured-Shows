@@ -1,0 +1,80 @@
+.navbar-customclass {
+    background-color: orange;
+}
+.navbar-customclass .navbar-brand,
+.navbar-customclass .navbar-text {
+    color: #0b0a0a;
+}
+.navbar-customclass .navbar-nav .nav-link {
+    color: rgba(255,255,255,.6);
+}
+.navbar-customclass .nav-item.active .nav-link,
+.navbar-customclass .nav-item:hover .nav-link {
+    color: #ffffff;
+}
+.nav-link{
+    margin-left: 170px;
+}
+
+.movie-image{
+    background-image: url(https://static1.cbrimages.com/wordpress/wp-content/uploads/2021/01/Featured-Image-Gon-Freecss-Cropped.jpg);
+    height: 600px;
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: center;
+
+}
+.movie-text{
+    color: white;
+    font-family: 'Londrina Shadow', cursive;
+    text-align: center;
+}
+.month{
+    border-style: groove;
+    text-align: center;
+    margin-top: 500px;
+    width: 43%;
+    margin-left: 450px;
+    background-color: rgba(255, 157, 0, 0.711);
+}
+#main-container{
+    text-align: center;
+    
+}
+.main-articles1{
+  background-color: rgba(128, 128, 128, 0.146);
+  margin-left: 600px;
+  margin-right: 600px;
+  
+  
+}
+.main-articles2{
+    background-color: rgba(128, 128, 128, 0.146);
+  margin-left: 550px;
+  margin-right: 550px;
+  border: #0b0a0a;
+}
+.main-articles3{
+    background-color: rgba(128, 128, 128, 0.146);
+  margin-left: 600px;
+  margin-right: 600px;
+}
+.main-articles4{
+    background-color: rgba(128, 128, 128, 0.146);
+  margin-left: 600px;
+  margin-right: 600px;
+}
+
+.img-thumbnail{
+    width: 250px;
+}
+.img-thumbnail1{
+    width: 250px;
+}
+.img-thumbnail2{
+    width: 250px;
+}
+.img-thumbnail3{
+    width: 250px;
+}
